@@ -2,6 +2,7 @@
 position:relative;
 margin:5px 0 20px;
 width: 70%;
+
 }
 .datainput p{
 font-size:12px;
@@ -95,7 +96,7 @@ color:#1294f2;
 .fifth {
   border-color: #8e44ad;
   border-radius: 0;
-  color: #8e44ad;
+  color: #1294f2;
   position: relative;
   overflow: hidden;
   z-index: 1;
@@ -119,5 +120,5 @@ color:#1294f2;
   color: #fff;
 }
 .fifth:hover:after {
-  width: 110%;
+  width: 40px;
 }
